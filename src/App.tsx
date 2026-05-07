@@ -129,9 +129,6 @@ function PublicPortfolio({ content }: { content: PortfolioContent }) {
         <Reveal className="hero-aside" delay={160}>
           <figure className="portrait">
             <img src="/mohamed-hiba-avatar.jpg" alt="Mohamed Hiba portrait" />
-            <figcaption>
-              Identity image from Mohamed&apos;s public GitHub profile.
-            </figcaption>
           </figure>
 
           <dl className="fact-list">
